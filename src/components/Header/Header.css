@@ -1,0 +1,7 @@
+.header a{
+    margin-right: 10px;
+    text-decoration: none;
+}
+.menuInline{
+    display: inline-block;
+}
