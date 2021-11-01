@@ -6,7 +6,7 @@ import Register from './components/Register/Register';
 import Header from './components/Header/Header';
 import AuthProvider from './context/AuthProvider';
 import Shipping from './components/Shipping/Shipping';
-import PrivateRoute from './components/PrivateRoute/PrivateRoute';
+import PrivateRoute from './PrivateRoute/PrivateRoute';
 
 function App() {
   return (
